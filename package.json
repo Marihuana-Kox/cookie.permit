@@ -1,0 +1,22 @@
+{
+  "name": "cookpermit",
+  "version": "1.0.0",
+  "description": "Окошко на сайте, которое предупреждает об использоании Cookie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marihuana-Kox/cookie.permit.git"
+  },
+  "keywords": [
+    "Cookie"
+  ],
+  "author": "MarihuanaKox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marihuana-Kox/cookie.permit/issues"
+  },
+  "homepage": "https://github.com/Marihuana-Kox/cookie.permit#readme"
+}
