@@ -2,7 +2,7 @@
   let defaults = {
     headText: "Подтвердите пожалуйста соглашение",
     paragraph: "Наш сайт использует технологию Cookie. Оставаясь на ресурсе Вы принимаете Соглашение об использовании файлов Cookie.",
-    lifeTime: 300000,
+    lifeTime: 30000,
     wrappClass: "wrap-permit",
     interClass: "inter-class",
     buttTextYes: "Принять",
