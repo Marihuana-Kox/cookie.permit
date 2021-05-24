@@ -1,8 +1,8 @@
 {
   "name": "cookpermit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Окошко на сайте, которое предупреждает об использоании Cookie",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
