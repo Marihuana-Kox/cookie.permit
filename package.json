@@ -1,6 +1,6 @@
 {
   "name": "cookpermit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Окошко на сайте, которое предупреждает об использоании Cookie",
   "main": "index.html",
   "scripts": {
