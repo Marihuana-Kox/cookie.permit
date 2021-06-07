@@ -42,7 +42,10 @@
     //ссылка на страницу с описанием Cookie
 	url: "/",
 	
-# Пример: 
+# Пример:
+
+	<div class="wrap-permit"></div>
+	
 	let options = {
 		lifeTime: 50000,
 		buttTextYes: "Yes",
